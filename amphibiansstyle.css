@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/graphic-2d-colorful-wallpaper-with-grainy-gradients_23-2151001489.jpg?t=st=1714379405~exp=1714383005~hmac=3a8e1a229cf82e998636eeeef908b6d24b3391099cb370373493c2fc8e0c6b91&w=360");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+.animalhead{
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+    background-image: url("https://img.freepik.com/free-photo/red-yellow-watercolor_95678-448.jpg?t=st=1714379541~exp=1714383141~hmac=1e859f795a656f31afbe03e172febdeffb149115eddbf521b9399ff5a4b03fba&w=1060");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 30px 10px;
+    border-radius: 15px; 
+}
+.animalmarq{
+    margin-top: 25px;
+}
+.amphibiansex{
+    font-size: 60px;
+    font-weight: 40px;
+    text-align: center;
+}
+.animalmar img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 40px;
+    /* border: 2px solid black; */
+}
+.amphibiansimg img{
+    width: 500px;
+    height: 400px;
+    border-radius: 50px;
+    margin: 15px;
+}
+.amphibiansbody{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    margin: 25px;
+}
+.amphibianspara{
+    font-size: 25px;
+    /* font-weight: 40px; */
+    margin-left: 20px;
+    /* text-align: center; */
+}
